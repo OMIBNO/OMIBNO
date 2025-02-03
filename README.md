@@ -1,4 +1,7 @@
-## Hi there 👋
+## About me
+### I'm Raihan Wiraseno P. 
+### I'm called by the name OMIBNO in online.
+
 
 <!--
 **OMIBNO/OMIBNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
