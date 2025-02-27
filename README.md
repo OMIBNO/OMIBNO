@@ -1,7 +1,6 @@
 ## About me
-I'm Raihan Wiraseno. I'm called by the name **OMIBNO** in online.
+I'm Raihan Wiraseno.
 I have learnt python, java, htmml, css. All materials were learnt by following the program that school made.
-My age? It's 59(jk).
 
 <!--
 **OMIBNO/OMIBNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
