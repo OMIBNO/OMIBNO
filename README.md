@@ -1,6 +1,6 @@
 ## About me
 I'm Raihan Wiraseno.
-I have learnt python, java, htmml, css. All materials were learnt by following the program that school made.
+I have learnt python, java, html, css. All material was learnt by following the program that school made.
 
 <!--
 **OMIBNO/OMIBNO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
