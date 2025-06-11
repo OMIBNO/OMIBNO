@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/ZevHadid">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZevHadid&layout=compact&langs_count=8&theme=radical&hide=Jupyter%20Notebook,css,javascript,html" />
+</a>
